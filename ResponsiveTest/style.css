@@ -1,0 +1,25 @@
+#col{
+    display: flex;
+    justify-content: center;
+    border-width: 1.5px;
+    border-color:#1b1b1f;
+    border-style: dashed;
+    min-height:30vb;
+    max-height: 55vb;
+    background-color: #1F1F24;
+    color: aliceblue;
+}
+body{
+    background-color: #1F1A24;
+}
+img{
+    max-width: 100%;
+    object-fit: scale-down;
+    height: auto;
+    width: auto;
+}
+h1{
+    text-align: center;
+    margin-top: 7vb;
+    font-size: 10vb;
+}
