@@ -1,0 +1,9 @@
+<div>
+        
+</div>
+
+<ul class="list-group" id="icons">
+    <li class="list-group-item" id="icon"><img src="https://www.clker.com/cliparts/u/j/K/w/1/5/home-icon-md.png">Home</li>
+    <li class="list-group-item" id="icon"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/VisualEditor_-_Icon_-_Search-big_-_white.svg/1200px-VisualEditor_-_Icon_-_Search-big_-_white.svg.png" style="width: 130%;right:15.5vw;">Search</li>
+    <li class="list-group-item" id="icon"><img src="https://icon-library.com/images/white-hamburger-menu-icon/white-hamburger-menu-icon-24.jpg">Library</li>
+  </ul>

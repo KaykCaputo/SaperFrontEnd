@@ -1,0 +1,53 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  /* adjust typography defaults */
+  body {
+    margin: 1rem;
+    font-family: Serif;
+    line-height: 1.5;
+    
+  }
+  button{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:5%;
+  }
+  .search{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 30%;
+    text-align: left;
+    height:80%;
+      
+  }
+  
+  .Google{
+    text-align: center;
+    font-size: 120px;
+    margin-top:8%;
+    margin-bottom:3%;
+    font-family: serif;
+    text-shadow: 4px 4px 20px black;
+  }
+  .red{
+    color:red;
+  }
+  .blue{
+    color:blue;
+  }
+  .green{
+    color:green
+  }
+  .yellow{
+    color:yellow;
+  }
+  
